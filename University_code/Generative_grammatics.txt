@@ -1,0 +1,6 @@
+G = ({S,A},{a,b},S,P)
+S->abS
+S->aAb
+S->aA
+A->*
+A->*
